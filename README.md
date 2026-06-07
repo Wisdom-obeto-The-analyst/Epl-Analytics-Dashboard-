@@ -242,17 +242,9 @@ The dataset underwent extensive cleaning and transformation in Power Query:
 
 **Wisdom Obeto**
 
-Data Analyst | Power BI Specialist | Open to Opportunities in the UK & US
+Data Analyst | Power BI Specialist | Open to Opportunities
 
 🔗 LinkedIn: www.linkedin.com/in/wisdom-obeto
-
----
-
-## © Copyright
-
-© 2026 Wisdom Obeto. All rights reserved.
-
-This project is provided for portfolio and demonstration purposes only. Reproduction, redistribution, or commercial use of this work without permission is prohibited without prior written consent.
 
 ---
 
